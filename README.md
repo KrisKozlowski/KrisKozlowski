@@ -20,3 +20,23 @@ which I would be able to make use of my skills and develop them
 * [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis)
 * [SQL for Testers](https://www.linkedin.com/learning/sql-for-testers)
 * [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań](https://pl.khanacademy.org/computing/computer-programming/sql)
+
+## Books I learn from
+
+* R. Smilgin - Zawód tester
+* A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
+* R. Patton - Software Testing
+* A. Roman - Testowanie i jakość oprogramowania. Modele, techniki, narzędzia
+
+## Groups I take knowledge from
+
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/)
+
+## Blogs I follow
+
+* testuj.pl
+* testerzy.pl
+* jaktestowac.pl
+* wyszkolewas.com.pl
