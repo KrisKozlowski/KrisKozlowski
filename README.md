@@ -24,6 +24,7 @@ which I would be able to make use of my skills and develop them
 ## Books I learn from
 
 * R. Smilgin - Zawód tester
+* R. Smilgin - Praktyka testowania. Zeszyt ćwiczeń
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
 * R. Patton - Software Testing
 * A. Roman - Testowanie i jakość oprogramowania. Modele, techniki, narzędzia
@@ -40,3 +41,6 @@ which I would be able to make use of my skills and develop them
 * testerzy.pl
 * jaktestowac.pl
 * wyszkolewas.com.pl
+
+## A bug report example
+[Bug from liber.pl](https://docs.google.com/document/d/e/2PACX-1vSuHSW5vBViQa1fjKpNVv17nokI1K3vYIN6l0zsAUnxzFJCcqyEbYSOwZJOZi9XnujFrfacNbgqN5cS/pub)
