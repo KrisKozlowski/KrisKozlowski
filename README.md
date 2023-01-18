@@ -2,13 +2,7 @@
 
 ## About me
 
-I like caring for quality and I appreciate contact with people. Analysing and solving clients' 
-problems make me satisfied. For a long time, however, I have been thinking over a change of my 
-professional profile to fulfil my potential. Some time ago I got into IT and programming 
-languages. Because of the tough pandemic time, I decided to change my professional profile 
-dramatically, so I started to learn it on my own and do some software testing tasks under the 
-tutelage of my acquaintances, who have a great deal of experience in IT. I am looking for a job 
-in which I would be able to make use of my skills and develop them.
+Last year, I achieved my goal of starting a career as a software tester. I really enjoy this position, as it involves analysing and quality assurance, and appreciate being in a branch where I can fulfil my potential. I am looking for a job in which I would be able to make use of my skills and develop them
 
 ## Courses
 
@@ -17,7 +11,6 @@ in which I would be able to make use of my skills and develop them.
 * [SQL for Testers](https://www.linkedin.com/learning/sql-for-testers)
 * [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań](https://pl.khanacademy.org/computing/computer-programming/sql)
 * [Automatyzacja testów: WebdriverIO + Typescript – Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/)
-* [Java – kurs dla testera](https://kursy.testeroprogramowania.pl/java-kurs-dla-testera/)
 
 ## Books I learn from
 
