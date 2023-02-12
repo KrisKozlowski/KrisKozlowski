@@ -19,6 +19,7 @@ Last year, I achieved my goal of starting a career as a software tester. I reall
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
 * A. Roman - Testowanie i jakość oprogramowania. Modele, techniki, narzędzia
 * R. Patton - Software Testing
+* P. Wróblewski - Python dla testera
 
 ## Groups I take knowledge from
 
