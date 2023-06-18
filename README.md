@@ -11,6 +11,7 @@ Last year, I achieved my goal of starting a career as a software tester. I reall
 * [SQL for Testers](https://www.linkedin.com/learning/sql-for-testers)
 * [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań](https://pl.khanacademy.org/computing/computer-programming/sql)
 * [Automatyzacja testów: WebdriverIO + Typescript – Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/)
+* [Cypress od podstaw - Automatyzacja testów](https://www.udemy.com/course/cypress-od-podstaw/)
 
 ## Books I learn from
 
@@ -19,7 +20,6 @@ Last year, I achieved my goal of starting a career as a software tester. I reall
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
 * A. Roman - Testowanie i jakość oprogramowania. Modele, techniki, narzędzia
 * R. Patton - Software Testing
-* P. Wróblewski - Python dla testera
 
 ## Groups I take knowledge from
 
